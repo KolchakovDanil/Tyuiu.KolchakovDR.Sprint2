@@ -20,7 +20,7 @@ namespace Tyuiu.KolchakovDR.Sprint2.Task0.V1.Test
             res = ds.GetCompareOperations(x, y);
             bool[] wait = new bool[6] {true, false, true, false, true, false};
 
-            CollectionAssert.AreEqual(wait, res); 
+            CollectionAssert.AreEqual(wait, res);  
         }
     }
 }

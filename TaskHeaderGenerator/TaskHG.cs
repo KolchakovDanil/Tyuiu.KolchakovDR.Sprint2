@@ -16,7 +16,7 @@ namespace TaskHeaderGenerator
         private int version;
         private string condition;
 
-        private int maxLineLenght = 75; 
+        private int maxLineLenght = 75;  
 
         public TaskHG(
             int sprintNumber,

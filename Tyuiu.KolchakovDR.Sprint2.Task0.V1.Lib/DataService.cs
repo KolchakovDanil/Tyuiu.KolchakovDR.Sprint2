@@ -21,7 +21,7 @@ namespace Tyuiu.KolchakovDR.Sprint2.Task0.V1.Lib
             res[2] = x < y + 112;
             res[3] = x > y + 112;
             res[4] = x <= y + 111;
-            res[5] = x >= y + 112; 
+            res[5] = x >= y + 112;  
 
             return res;
         }

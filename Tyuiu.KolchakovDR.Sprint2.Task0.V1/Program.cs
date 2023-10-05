@@ -14,7 +14,7 @@ namespace Tyuiu.KolchakovDR.Sprint2.Task0.V1
             DataService ds = new DataService();
             TaskHG thg = new TaskHG(
                 2,
-                "Колчаков Д. Р.", 
+                "Колчаков Д. Р.",  
                 "ИИПб-23-2",
                 "Операции сравнения",
                 0,
